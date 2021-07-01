@@ -1,13 +1,13 @@
-# TK - A Telegram Bot
+# Tellyfun4u - A Telegram Bot
 
 ## Notes:
-~~this sucks and nothing works~~
+~~tellytortookitbot~~
 
 ## Deploy via Heroku
 - Click the button below
 - Add required variables
 - Build
-<p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/ttk"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/tellyfun4u/skk"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Deploy via Heroku CLI
 - Download [deploy.zip](https://github.com/reaitten/tk/releases/tag/v1.0).
@@ -58,7 +58,7 @@ git push heroku main
 
 `TG_UP_LIMIT` = Telegram Upload limit in bytes.
 
-`BOT_CMD_POSTFIX` = Set this to your bot username if you want to add the username of your bot at the end of the commands. e.g `/leech@TorToolkitBot` so the value will be @TorToolkitBot
+`BOT_CMD_POSTFIX` = Set this to your bot username if you want to add the username of your bot at the end of the commands. e.g `/leech@tellytortoolkitfun_bot` so the value will be @tellytortoolkitfun_bot
 
 `FORCE_DOCUMENTS` = Should all the upload to telegram be made as documents or not.
 
