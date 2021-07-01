@@ -1,7 +1,7 @@
 # Tellyfun4u - A Telegram Bot
 
 ## Notes:
-~~tellytortookitbot~~
+~~credit to ttgk~~
 
 ## Deploy via Heroku
 - Click the button below
